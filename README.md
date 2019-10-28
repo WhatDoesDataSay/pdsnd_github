@@ -1,8 +1,8 @@
 ### Date created
-Include the date you created this project and README file.
+2019-10-28
 
 ### Project Title
-Replace the Project Title
+Udacity programming for data science python project
 
 ### Description
 Describe what your project is about and what it does
