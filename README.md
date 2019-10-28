@@ -16,3 +16,5 @@ Credits what?
 ### Results
 Analyzed given data
 
+### Further research
+Would be nice to calculate distance travelled and time per trip
