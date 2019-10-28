@@ -33,7 +33,7 @@ def get_filters():
        else:
             print('invalid input')
     
-    # TO DO: get user input for month (all, january, february, ... , june)
+    # TO DO: get user input for month (all, january, february, ... , june) and make sure it's lower case
     while True:
         month = input('Which month are you interested in?\n> ').lower()
         if month in MONTHS:
