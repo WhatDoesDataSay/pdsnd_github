@@ -5,7 +5,7 @@
 Udacity programming for data science python project
 
 ### Description
-Describe what your project is about and what it does
+Exploring bike sharing data for cities of Chicago, New York and Washington
 
 ### Files used
 Include the files used
