@@ -6,7 +6,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
-# Pre-defined variables to be selected by user
+#Pre-defined variables to be selected by user
 
 CITIES = ['chicago', 'new york city', 'washington']
 
